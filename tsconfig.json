@@ -1,0 +1,21 @@
+{
+  "files": [
+    "src/cli/schedule.ts"
+  ],
+  "include": [
+    "types/**/*.d.ts"
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "noUnusedLocals": true,
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "es2015",
+      "scripthost"
+    ]
+  }
+}
