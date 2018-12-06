@@ -55,7 +55,7 @@ module.exports = fs.readFileAsync(tokensFilename).then(JSON.parse).catch(() => {
         } else {
           resolve(token)
 
-          fs.mkdirAsync(tokensDirectory)
+          fs.mkdirAsync(tokensDirectory, parseInt('0700', 8))
             .catch((error) => { if (error.code !== 'EEXIST') throw error })
             .then(() => fs.writeFileAsync(tokensFilename, JSON.stringify(token)))
             .then(() => console.log(`Token stored in: ${tokensFilename}`))

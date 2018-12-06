@@ -2,6 +2,7 @@ import random = require('./lib/random')
 import Student = require('./student')
 import Teacher = require('./teacher')
 
+//This file organizes/parses data into format for "algorithm to handle"
 export interface Assignments {
   [teacher: string]: {
     [subject: string]: Student[]
@@ -227,6 +228,8 @@ export function parseStudents(registration: any) {
   // FIXME:
   const broken = [43]
 
+  // Up to now it's just parsing and formatting the data
+
   registrationRows.forEach((row: any, index: number) => {
     if (broken.indexOf(index + 2) === -1 && row && row.some((x: any) => !!x && `${x}`.trim())) {
       const emailAddress: string = `${row[indexOfEmailAddress]}`.toLowerCase()
@@ -380,6 +383,8 @@ export function reset(registration: any, spreadsheets: any) {
   parseAssignments(spreadsheets)
 }
 
+// Uses raw enrollment to distribute student to teachers on a subject by subject basis
+// If there's 2 Alg1 teachers it will randomly distribute all Alg1 studetns to those teachers
 export function divvy(): Assignments {
   const studentsBySubject = {} as any
   const teachersBySubject = {} as any
@@ -485,6 +490,7 @@ export function divvy(): Assignments {
   return assignments
 }
 
+// "Algorithm" NOTE
 export function remix() {
   const unscheduled: Need[] = []
 
