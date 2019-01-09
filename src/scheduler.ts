@@ -2,7 +2,7 @@ import random = require('./lib/random')
 import Student = require('./student')
 import Teacher = require('./teacher')
 
-//This file organizes/parses data into format for "algorithm to handle"
+// This file organizes/parses data into format for "algorithm to handle"
 export interface Assignments {
   [teacher: string]: {
     [subject: string]: Student[]
@@ -59,6 +59,10 @@ export function expectAssignments(spreadsheets: any) {
     }
 
     if (n !== nj) {
+      // tslint:disable:no-console
+      console.log(emailAddress)
+      console.log(nj)
+      console.log(n)
       throw new Error('Missing assignments')
     }
   }
@@ -311,7 +315,7 @@ export function parseAssignments(spreadsheets: any) {
         if (!schedulable) {
           throw new Error(`Invalid subject: ${subject}`)
         }
-
+        console.log('Teacher: ' + teacher.emailAddress)
         if (!assignments[teacher.emailAddress][subject]) {
           assignments[teacher.emailAddress][subject] = []
         }

@@ -14,7 +14,7 @@ const tokensDirectory = path.join(homeDirectory, '.tokens')
 const tokensFilename = path.join(tokensDirectory, `${scopes.join('-')}.d-remix.json`)
 
 const credentialsDirectory = path.join(homeDirectory, '.credentials')
-const credentialsFilename = path.join(credentialsDirectory, 'dtech.google.json')
+const credentialsFilename = path.join(credentialsDirectory, 'credentials_new.json')
 
 const credentials = JSON.parse(fs.readFileSync(credentialsFilename))
 const {

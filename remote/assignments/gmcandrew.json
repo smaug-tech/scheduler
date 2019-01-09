@@ -1,0 +1,857 @@
+{
+  "spreadsheetId": "1VHUKz6mqtO0pBkgvehxFvuzW-IqPAX8M_O3H6OH39NU",
+  "properties": {
+    "title": "gmcandrew"
+  },
+  "sheets": [
+    {
+      "properties": {
+        "sheetId": 636733603,
+        "title": "Subject: Incubator Jump Start",
+        "index": 0
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10809,
+          "Volkov, Hailey",
+          "hvolkov22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10791,
+          "de Bruyn, Melissa",
+          "mdebruyn22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10780,
+          "Cheek, Garrett",
+          "gcheek22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10800,
+          "Sunkara, Akshay",
+          "asunkara22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10817,
+          "Wigenstam, Sophia",
+          "swigenstam22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10863,
+          "Cohen, Dylan",
+          "dcohen22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10815,
+          "Shaw, Kathleen",
+          "kshaw22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10803,
+          "Quisol, Ryan",
+          "rquisol22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10789,
+          "Thompson, Ryken",
+          "rthompson22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10879,
+          "Flint, Lachlan",
+          "lflint22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10801,
+          "Paolinelli, Angelina",
+          "apaolinelli22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10868,
+          "Wilkins, Ian",
+          "iwilkins22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10848,
+          "Hom, Julia",
+          "jhom22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10857,
+          "Ueno, Gaku",
+          "gueno22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10880,
+          "Gibson, Nicolas",
+          "ngibson22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10854,
+          "Spaeth, Douglas",
+          "dspaeth22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10885,
+          "Davis, Lucca",
+          "ldavis22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10904,
+          "Dijamco, Sarah",
+          "sdijamco22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10812,
+          "Escobar, Nicholas",
+          "nescobar22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10901,
+          "Eernisse, Yoshiki",
+          "yeernisse22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10917,
+          "Crouch, Genevieve",
+          "gcrouch22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10832,
+          "Cronin, Connor",
+          "ccronin22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10918,
+          "O'Connell, Jack",
+          "joconnell22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10852,
+          "Gagas, Raisa",
+          "rgagas22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10795,
+          "Phillips, Anneliese",
+          "aphillips22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10770,
+          "Baggott, Roxanne",
+          "rbaggott22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10929,
+          "Glover, Dwayjanae",
+          "dglover22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10855,
+          "Solis-Rodriguez, Anna",
+          "asolisrodriguez22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10861,
+          "Bennett, Riley",
+          "rbennett22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10903,
+          "Bliss, Elliott",
+          "ebliss22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10818,
+          "Rozmus, Amulen",
+          "arozmus22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10826,
+          "Marmor, Guy",
+          "gmarmor22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10886,
+          "Stavosky, Luis",
+          "lstavosky22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10808,
+          "Ugrin, Julien",
+          "jugrin22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10830,
+          "Rhodes, Madison",
+          "mrhodes22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10914,
+          "Shedd, Grant",
+          "gshedd22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10840,
+          "Trumpler, Mason",
+          "mtrumpler22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10867,
+          "Maharaj, Amrisha",
+          "amaharaj22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10843,
+          "Blackmon, Dustin",
+          "dblackmon22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10849,
+          "Gao, Amaryllis",
+          "agao22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10807,
+          "Tung, Faith",
+          "ftung22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10890,
+          "Singh, Kasvi",
+          "ksingh22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10928,
+          "Karadshe, Yara",
+          "ykaradshe22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10822,
+          "Aggen, Abigail",
+          "aaggen22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10839,
+          "Chen, Gabriella (Gabby)",
+          "gchen22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10824,
+          "Reiterman, Megan",
+          "mreiterman22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10872,
+          "Norr, Kieran",
+          "knorr22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10821,
+          "McCullough, Oliver",
+          "omccullough22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10644,
+          "Gagas, Rustam",
+          "rgagas21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10920,
+          "Auerbach, Julian",
+          "jauerbach22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10774,
+          "Saito, Samantha",
+          "ssaito22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10906,
+          "Sakamoto, Maile",
+          "msakamoto22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10908,
+          "Arruda, Mia",
+          "marruda22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10777,
+          "Saito, Thomas",
+          "tsaito22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10841,
+          "Lee, Katelyn",
+          "klee22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10869,
+          "Kholmer, Michael",
+          "mkholmer22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10828,
+          "Balkhi, Areeba",
+          "abalkhi22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10819,
+          "Wood, Owen",
+          "owood22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10926,
+          "Loudermilk, William",
+          "wloudermilk22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10876,
+          "Meadow, Savannah",
+          "smeadow22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10788,
+          "Mally, Charlotte",
+          "cmally22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10924,
+          "Lambeth, Evelyn",
+          "elambeth22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10784,
+          "Moody, Olivia",
+          "omoody22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10802,
+          "Huang, Taliyah",
+          "thuang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10871,
+          "Chang, Dylan",
+          "dchang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10902,
+          "Eernisse, Akira",
+          "aeernisse22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10814,
+          "Liang, Ethan",
+          "eliang22@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 279858680,
+        "title": "1st: Incubator Jump Start",
+        "index": 1
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10808,
+          "Ugrin, Julien",
+          "jugrin22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10807,
+          "Tung, Faith",
+          "ftung22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10854,
+          "Spaeth, Douglas",
+          "dspaeth22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10814,
+          "Liang, Ethan",
+          "eliang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10848,
+          "Hom, Julia",
+          "jhom22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10802,
+          "Huang, Taliyah",
+          "thuang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10918,
+          "O'Connell, Jack",
+          "joconnell22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10818,
+          "Rozmus, Amulen",
+          "arozmus22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10855,
+          "Solis-Rodriguez, Anna",
+          "asolisrodriguez22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10879,
+          "Flint, Lachlan",
+          "lflint22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10928,
+          "Karadshe, Yara",
+          "ykaradshe22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10824,
+          "Reiterman, Megan",
+          "mreiterman22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10885,
+          "Davis, Lucca",
+          "ldavis22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10876,
+          "Meadow, Savannah",
+          "smeadow22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10809,
+          "Volkov, Hailey",
+          "hvolkov22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10929,
+          "Glover, Dwayjanae",
+          "dglover22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10868,
+          "Wilkins, Ian",
+          "iwilkins22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10872,
+          "Norr, Kieran",
+          "knorr22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10801,
+          "Paolinelli, Angelina",
+          "apaolinelli22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10924,
+          "Lambeth, Evelyn",
+          "elambeth22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10849,
+          "Gao, Amaryllis",
+          "agao22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10800,
+          "Sunkara, Akshay",
+          "asunkara22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10880,
+          "Gibson, Nicolas",
+          "ngibson22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10817,
+          "Wigenstam, Sophia",
+          "swigenstam22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10828,
+          "Balkhi, Areeba",
+          "abalkhi22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10815,
+          "Shaw, Kathleen",
+          "kshaw22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10774,
+          "Saito, Samantha",
+          "ssaito22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10841,
+          "Lee, Katelyn",
+          "klee22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10830,
+          "Rhodes, Madison",
+          "mrhodes22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10777,
+          "Saito, Thomas",
+          "tsaito22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10832,
+          "Cronin, Connor",
+          "ccronin22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10822,
+          "Aggen, Abigail",
+          "aaggen22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10840,
+          "Trumpler, Mason",
+          "mtrumpler22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10812,
+          "Escobar, Nicholas",
+          "nescobar22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10903,
+          "Bliss, Elliott",
+          "ebliss22@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1540679924,
+        "title": "3rd: Incubator Jump Start",
+        "index": 2
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10890,
+          "Singh, Kasvi",
+          "ksingh22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10819,
+          "Wood, Owen",
+          "owood22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10826,
+          "Marmor, Guy",
+          "gmarmor22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10908,
+          "Arruda, Mia",
+          "marruda22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10770,
+          "Baggott, Roxanne",
+          "rbaggott22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10906,
+          "Sakamoto, Maile",
+          "msakamoto22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10917,
+          "Crouch, Genevieve",
+          "gcrouch22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10926,
+          "Loudermilk, William",
+          "wloudermilk22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10852,
+          "Gagas, Raisa",
+          "rgagas22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10839,
+          "Chen, Gabriella (Gabby)",
+          "gchen22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10788,
+          "Mally, Charlotte",
+          "cmally22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10795,
+          "Phillips, Anneliese",
+          "aphillips22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10791,
+          "de Bruyn, Melissa",
+          "mdebruyn22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10821,
+          "McCullough, Oliver",
+          "omccullough22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10803,
+          "Quisol, Ryan",
+          "rquisol22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10784,
+          "Moody, Olivia",
+          "omoody22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10902,
+          "Eernisse, Akira",
+          "aeernisse22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10789,
+          "Thompson, Ryken",
+          "rthompson22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10644,
+          "Gagas, Rustam",
+          "rgagas21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10869,
+          "Kholmer, Michael",
+          "mkholmer22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10914,
+          "Shedd, Grant",
+          "gshedd22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10843,
+          "Blackmon, Dustin",
+          "dblackmon22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10780,
+          "Cheek, Garrett",
+          "gcheek22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10863,
+          "Cohen, Dylan",
+          "dcohen22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10857,
+          "Ueno, Gaku",
+          "gueno22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10867,
+          "Maharaj, Amrisha",
+          "amaharaj22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10871,
+          "Chang, Dylan",
+          "dchang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10861,
+          "Bennett, Riley",
+          "rbennett22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10904,
+          "Dijamco, Sarah",
+          "sdijamco22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10920,
+          "Auerbach, Julian",
+          "jauerbach22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10901,
+          "Eernisse, Yoshiki",
+          "yeernisse22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10886,
+          "Stavosky, Luis",
+          "lstavosky22@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    }
+  ]
+}

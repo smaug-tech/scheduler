@@ -1,0 +1,593 @@
+{
+  "spreadsheetId": "1TgG76R1tFrlLV-VCvvSf8vRCToI4tLSqc8YCGZWkdig",
+  "properties": {
+    "title": "kklieman"
+  },
+  "sheets": [
+    {
+      "properties": {
+        "sheetId": 1668163295,
+        "title": "Subject: Government",
+        "index": 0
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10258,
+          "Guerrero, Izabella",
+          "iguerrero19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10242,
+          "Dvorkin, Sophie",
+          "sdvorkin19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10328,
+          "Shapiro, Melina",
+          "mshapiro19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10391,
+          "Shaw, Kehl",
+          "kshaw19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10304,
+          "Nguyen, Victoria",
+          "vnguyen19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10537,
+          "Julian, Tiffany (Tony)",
+          "tjulian19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10336,
+          "Suresh, Vani",
+          "vsuresh19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10223,
+          "Bennett, Joshua",
+          "jbennett19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10275,
+          "Konardi, Yohanna",
+          "ykonardi19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10579,
+          "Silverman, Matthew",
+          "msilverman19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10748,
+          "Tateishi, Remi",
+          "rtateishi19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10226,
+          "Campos, Tyler",
+          "tcampos19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10230,
+          "Chen, Ashley",
+          "achen19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10307,
+          "Olivas, Jonathan",
+          "jolivas19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10325,
+          "Nourie, Andrew",
+          "anourie19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10719,
+          "Patel, Riana",
+          "rpatel19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10724,
+          "Reid, Julia",
+          "jreid19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10268,
+          "Ho, Aaron",
+          "aho19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10299,
+          "Moore, Ian",
+          "imoore19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10243,
+          "Fakoukaki, Georgina",
+          "gfakoukaki19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10244,
+          "Fakoukaki, Tatiana",
+          "tfakoukaki19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10312,
+          "Pine, Kevin",
+          "kpine19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10580,
+          "Smithstein, Hezekiah",
+          "hsmithstein19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10621,
+          "Chapralis, Alexandra",
+          "achapralis19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10757,
+          "James, Brendan",
+          "bjames19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10538,
+          "Lee, Han Ui",
+          "hlee19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10355,
+          "Yu, Brandon",
+          "byu19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10221,
+          "Baggott, Jessica",
+          "jbaggott19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10229,
+          "Chan, Tanson",
+          "tchan19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10342,
+          "Tyryshkin, Erik",
+          "etyryshkin19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10252,
+          "Fulkerson, Ross",
+          "rfulkerson19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10240,
+          "Dooley, Dacotah",
+          "ddooley19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10320,
+          "Osgood, Andrew",
+          "aosgood19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10317,
+          "Robinson, Paul",
+          "probinson19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10669,
+          "Kaufusi, Nina",
+          "nkaufusi19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10241,
+          "DuBois, Bret",
+          "bdubois19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10233,
+          "Chow, Aaron",
+          "achow19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10265,
+          "Reddy, Jaya",
+          "jreddy19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10245,
+          "Figueroa, Marcus",
+          "mfigueroa19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10225,
+          "Boz, Elliot",
+          "eboz19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10583,
+          "Abbey, Taylor",
+          "tabbey19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10219,
+          "Almeida, Sofia",
+          "salmeida19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10356,
+          "Yu, Ethan",
+          "eyu19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10285,
+          "Lin, Jared",
+          "jlin19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10533,
+          "Blessinger, Madelyn (Kaiden)",
+          "kblessinger19@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 520306782,
+        "title": "5th: Government",
+        "index": 1
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10252,
+          "Fulkerson, Ross",
+          "rfulkerson19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10226,
+          "Campos, Tyler",
+          "tcampos19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10243,
+          "Fakoukaki, Georgina",
+          "gfakoukaki19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10244,
+          "Fakoukaki, Tatiana",
+          "tfakoukaki19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10241,
+          "DuBois, Bret",
+          "bdubois19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10223,
+          "Bennett, Joshua",
+          "jbennett19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10320,
+          "Osgood, Andrew",
+          "aosgood19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10304,
+          "Nguyen, Victoria",
+          "vnguyen19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10342,
+          "Tyryshkin, Erik",
+          "etyryshkin19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10533,
+          "Blessinger, Madelyn (Kaiden)",
+          "kblessinger19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10219,
+          "Almeida, Sofia",
+          "salmeida19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10719,
+          "Patel, Riana",
+          "rpatel19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10317,
+          "Robinson, Paul",
+          "probinson19@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1372601806,
+        "title": "6th: Government",
+        "index": 2
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10391,
+          "Shaw, Kehl",
+          "kshaw19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10233,
+          "Chow, Aaron",
+          "achow19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10275,
+          "Konardi, Yohanna",
+          "ykonardi19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10621,
+          "Chapralis, Alexandra",
+          "achapralis19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10299,
+          "Moore, Ian",
+          "imoore19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10583,
+          "Abbey, Taylor",
+          "tabbey19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10258,
+          "Guerrero, Izabella",
+          "iguerrero19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10285,
+          "Lin, Jared",
+          "jlin19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10537,
+          "Julian, Tiffany (Tony)",
+          "tjulian19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10757,
+          "James, Brendan",
+          "bjames19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10268,
+          "Ho, Aaron",
+          "aho19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10355,
+          "Yu, Brandon",
+          "byu19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10328,
+          "Shapiro, Melina",
+          "mshapiro19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10325,
+          "Nourie, Andrew",
+          "anourie19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10307,
+          "Olivas, Jonathan",
+          "jolivas19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10221,
+          "Baggott, Jessica",
+          "jbaggott19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10230,
+          "Chen, Ashley",
+          "achen19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10336,
+          "Suresh, Vani",
+          "vsuresh19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10229,
+          "Chan, Tanson",
+          "tchan19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10240,
+          "Dooley, Dacotah",
+          "ddooley19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10225,
+          "Boz, Elliot",
+          "eboz19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10748,
+          "Tateishi, Remi",
+          "rtateishi19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10265,
+          "Reddy, Jaya",
+          "jreddy19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10669,
+          "Kaufusi, Nina",
+          "nkaufusi19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10580,
+          "Smithstein, Hezekiah",
+          "hsmithstein19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10242,
+          "Dvorkin, Sophie",
+          "sdvorkin19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10724,
+          "Reid, Julia",
+          "jreid19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10312,
+          "Pine, Kevin",
+          "kpine19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10356,
+          "Yu, Ethan",
+          "eyu19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10579,
+          "Silverman, Matthew",
+          "msilverman19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10538,
+          "Lee, Han Ui",
+          "hlee19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10245,
+          "Figueroa, Marcus",
+          "mfigueroa19@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    }
+  ]
+}

@@ -6,7 +6,7 @@ const getSheets = require('./get-sheets')
 module.exports = function getAssignments() {
   return initializeAssignments().then((files) => {
     files.push({
-      id: '1PzN9Zsh7QJzhOu3wz73_D-7eBIACCvhq1eexBeUPLW8',
+      id: '1DFdFUysFwqobP0Oia-zIlvg9txwLBwk241yLLXVbt7I',
       name: '00-master-schedule'
     })
 

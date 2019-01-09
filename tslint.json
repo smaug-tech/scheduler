@@ -78,7 +78,8 @@
     "space-before-function-paren": [true, {"anonymous": "always", "named": "never", "asyncArrow": "always"}],
     "space-within-parens": [true, 0],
     "trailing-comma": [true, {"multiline": "never", "singleline": "never"}],
-    "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"]
+    "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"],
+    "no-console": false
   },
   "rulesDirectory": []
 }

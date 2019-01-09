@@ -1,0 +1,1634 @@
+{
+  "spreadsheetId": "1Q88zS5cyb6a79tJ0IMjNsy-LwtSy9R1k9kq0ekicmPw",
+  "properties": {
+    "title": "afrost"
+  },
+  "sheets": [
+    {
+      "properties": {
+        "sheetId": 221149628,
+        "title": "Subject: Algebra 2B",
+        "index": 0
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10713,
+          "Nandani, Keya",
+          "knandani21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10459,
+          "Frank, Keito",
+          "kfrank20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10630,
+          "Dal Porto, Megan",
+          "mdalporto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10655,
+          "Martinez-Hall, Elena",
+          "emartinezhall21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10428,
+          "Caoili, Diego",
+          "dcaoili20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10451,
+          "Harel, Erez",
+          "eharel20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10894,
+          "Wong, Carter",
+          "cwong22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10530,
+          "Boley, Matthew",
+          "mboley20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10624,
+          "Cheung, Natalie",
+          "ncheung21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10913,
+          "Hsu, Madeline",
+          "mhsu22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10234,
+          "Coria-Nava, Salvador",
+          "scorianava19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10728,
+          "Schiller, Sydney",
+          "sschiller21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10652,
+          "Guernsey, Alexandra",
+          "aguernsey21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10837,
+          "Loeffler, Jackson",
+          "jloeffler22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10799,
+          "Hamilton, Angus",
+          "ahamilton22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10834,
+          "Fong, Kyle",
+          "kfong22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10575,
+          "Moore, Matthew",
+          "mmoore20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10874,
+          "Lin, Jasmine",
+          "jlin22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10478,
+          "Francis, Eric",
+          "efrancis20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10571,
+          "Hill, Kelley",
+          "khill20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10740,
+          "Sturgeon, Levi",
+          "lsturgeon21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10011,
+          "Kumar, Rohan",
+          "rkumar21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10364,
+          "Silva, Alberto",
+          "asilva19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10593,
+          "Walsh, Owen",
+          "owalsh20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10404,
+          "Hofelmann, Max",
+          "mhofelmann20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10890,
+          "Singh, Kasvi",
+          "ksingh22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10009,
+          "Chou, Jared",
+          "jchou21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10519,
+          "Porras, Diana",
+          "dporras20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10881,
+          "Mitelman, Jonathan",
+          "jmitelman22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10727,
+          "Sayed, Hunter",
+          "hsayed20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10686,
+          "Lerohl, Matthew",
+          "mlerohl21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10749,
+          "Nagai, Miki",
+          "mnagai21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10747,
+          "Tateishi, Issey",
+          "itateishi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10505,
+          "Guardado, Anthony",
+          "aguardado20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10598,
+          "Abouata, Sammy",
+          "sabouata21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10702,
+          "McGugan, Patrick",
+          "pmcgugan21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10809,
+          "Volkov, Hailey",
+          "hvolkov22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10499,
+          "Queiroz, Daniel",
+          "dqueiroz20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10682,
+          "Lawrence, Jackson",
+          "jlawrence21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10447,
+          "Rosario, Kyleanne",
+          "krosario20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10754,
+          "Tyryshkin, Emily",
+          "etyryshkin21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10607,
+          "Brady, Drew",
+          "dbrady21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10613,
+          "Benson, Geran",
+          "gbenson20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10623,
+          "Chen, Aidan",
+          "achen21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10518,
+          "Wood, Eli",
+          "ewood20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10814,
+          "Liang, Ethan",
+          "eliang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10656,
+          "Flock, Savannah",
+          "sflock21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10816,
+          "Halpern, Clio",
+          "chalpern22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10031,
+          "Fields, Jack",
+          "jfields20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10609,
+          "Blecherman, Jonathan",
+          "jblecherman21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10600,
+          "Akhavein, Dara",
+          "dakhavein21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10391,
+          "Shaw, Kehl",
+          "kshaw19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10688,
+          "Levy, Dahlia",
+          "dlevy21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10038,
+          "Fagans, Annabelle",
+          "afagans21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10736,
+          "Simone, Catherine",
+          "csimone21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10730,
+          "Shannon, Monica",
+          "mshannon21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10318,
+          "Rodriguez, Brandon",
+          "brodriguez19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10482,
+          "Lederman, Julia",
+          "jlederman20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10739,
+          "Stoiber, Daniel",
+          "dstoiber21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10892,
+          "Hsiao, Aidan",
+          "ahsiao22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10498,
+          "Gajiwala, Kris",
+          "kgajiwala20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10254,
+          "Galarza, Dallas",
+          "dgalarza18@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10698,
+          "Managadze, Marita",
+          "mmanagadze21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10581,
+          "Tapia, Mia",
+          "mtapia20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10017,
+          "Fagans, Connor",
+          "cfagans20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10480,
+          "Carini, Carson",
+          "ccarini20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10703,
+          "Medlin, John",
+          "jmedlin21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10879,
+          "Flint, Lachlan",
+          "lflint22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10664,
+          "Jariwala, Anjali",
+          "ajariwala21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10711,
+          "Morley, Zachary",
+          "zmorley21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10021,
+          "Sales, Zackary",
+          "zsales21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10695,
+          "Mah, Samantha",
+          "smah21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10833,
+          "Wu, Lauren",
+          "lwu22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10741,
+          "Suriben, Ellyanah",
+          "esuriben21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10514,
+          "Blackmon, Russell",
+          "rblackmon20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10922,
+          "Davis, Benjamin",
+          "bdavis21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10631,
+          "Despues, Peter Gian-Paolo",
+          "pdespues21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10394,
+          "Baggott, Phoebe",
+          "pbaggott20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10274,
+          "Kelly, Maeve",
+          "mkelly19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10639,
+          "Ettrick, Joss",
+          "jettrick21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10027,
+          "McCulloch, Michael",
+          "mmcculloch21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10667,
+          "Jordan, Sophia",
+          "sjordan21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10615,
+          "Bauhaus, Nikolas",
+          "nbauhaus21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10022,
+          "Eernisse, Hiromasa",
+          "heernisse20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10666,
+          "John, Logan",
+          "ljohn21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10029,
+          "Hildebrand, Ryan",
+          "rhildebrand21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10300,
+          "Faalogoifo, Alexxus",
+          "afaalogoifo19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10672,
+          "Kikuchi, Shumpei",
+          "skikuchi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10476,
+          "Simpson, Oliver",
+          "osimpson20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10797,
+          "Chandrasekaran, Thandapani",
+          "tchandrasekaran22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10641,
+          "Flores, Dahlia",
+          "dflores21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10696,
+          "Mahamedi, Darius",
+          "dmahamedi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10426,
+          "Watson, Luke",
+          "lwatson20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10764,
+          "Guinto, Arwyn",
+          "aguinto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10828,
+          "Balkhi, Areeba",
+          "abalkhi22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10537,
+          "Julian, Tiffany (Tony)",
+          "tjulian19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10632,
+          "Dowd, Paul",
+          "pdowd21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10259,
+          "Gutierrez, Felix",
+          "fgutierrez19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10668,
+          "Flemate, Zoe",
+          "zflemate21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10693,
+          "Luna, Okalani",
+          "oluna21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10766,
+          "Yee, Ryan",
+          "ryee21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10627,
+          "Conley, Griffin",
+          "gconley21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10817,
+          "Wigenstam, Sophia",
+          "swigenstam22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10746,
+          "Tarkiainen, Yasmine",
+          "ytarkiainen21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10526,
+          "Levitt, Avia",
+          "alevitt20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10765,
+          "Yamamoto, Michika",
+          "myamamoto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10610,
+          "Bingham, Brianna",
+          "bbingham21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10606,
+          "Brewster, Katherine",
+          "kbrewster21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10034,
+          "Hiebert, Andrew",
+          "ahiebert21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10033,
+          "Soy, Emelie",
+          "esoy20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10670,
+          "Kaufusi, Virginia",
+          "vkaufusi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10690,
+          "Lin, Stacey",
+          "slin21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10464,
+          "Hussein, Ibrahim",
+          "ihussein20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10525,
+          "Torreano, Anthony",
+          "atorreano20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10452,
+          "Thornley, Lara",
+          "lthornley20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10726,
+          "Saniewski, Madelyn",
+          "msaniewski21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10838,
+          "Loeffler, Coleman",
+          "cloeffler22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10714,
+          "Roitman, Joshua",
+          "jroitman21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10611,
+          "Bertocchini, Dominic",
+          "dbertocchini21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10697,
+          "Mahan, Joelle",
+          "jmahan21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10921,
+          "Shore, Jacob",
+          "jshore21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10654,
+          "Ho, Ryan",
+          "rho21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10738,
+          "Stamper, Kaitlin",
+          "kstamper20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10041,
+          "Sakamoto, Sophie",
+          "ssakamoto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10605,
+          "Brown, Arielle",
+          "abrown21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10036,
+          "Forster, Alannah",
+          "aforster20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10446,
+          "Daskalakis, Sophia",
+          "sdaskalakis20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10616,
+          "Campbell, Samantha",
+          "scampbell21@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1616327327,
+        "title": "1st: Algebra 2B",
+        "index": 1
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10894,
+          "Wong, Carter",
+          "cwong22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10921,
+          "Shore, Jacob",
+          "jshore21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10714,
+          "Roitman, Joshua",
+          "jroitman21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10274,
+          "Kelly, Maeve",
+          "mkelly19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10892,
+          "Hsiao, Aidan",
+          "ahsiao22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10575,
+          "Moore, Matthew",
+          "mmoore20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10730,
+          "Shannon, Monica",
+          "mshannon21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10630,
+          "Dal Porto, Megan",
+          "mdalporto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10652,
+          "Guernsey, Alexandra",
+          "aguernsey21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10816,
+          "Halpern, Clio",
+          "chalpern22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10011,
+          "Kumar, Rohan",
+          "rkumar21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10041,
+          "Sakamoto, Sophie",
+          "ssakamoto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10739,
+          "Stoiber, Daniel",
+          "dstoiber21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10029,
+          "Hildebrand, Ryan",
+          "rhildebrand21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10518,
+          "Wood, Eli",
+          "ewood20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10631,
+          "Despues, Peter Gian-Paolo",
+          "pdespues21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10404,
+          "Hofelmann, Max",
+          "mhofelmann20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10696,
+          "Mahamedi, Darius",
+          "dmahamedi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10738,
+          "Stamper, Kaitlin",
+          "kstamper20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10446,
+          "Daskalakis, Sophia",
+          "sdaskalakis20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10833,
+          "Wu, Lauren",
+          "lwu22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10874,
+          "Lin, Jasmine",
+          "jlin22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10799,
+          "Hamilton, Angus",
+          "ahamilton22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10451,
+          "Harel, Erez",
+          "eharel20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10667,
+          "Jordan, Sophia",
+          "sjordan21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10765,
+          "Yamamoto, Michika",
+          "myamamoto21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10519,
+          "Porras, Diana",
+          "dporras20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10913,
+          "Hsu, Madeline",
+          "mhsu22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10837,
+          "Loeffler, Jackson",
+          "jloeffler22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10764,
+          "Guinto, Arwyn",
+          "aguinto21@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 249475039,
+        "title": "2nd: Algebra 2B",
+        "index": 2
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10318,
+          "Rodriguez, Brandon",
+          "brodriguez19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10464,
+          "Hussein, Ibrahim",
+          "ihussein20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10672,
+          "Kikuchi, Shumpei",
+          "skikuchi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10881,
+          "Mitelman, Jonathan",
+          "jmitelman22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10726,
+          "Saniewski, Madelyn",
+          "msaniewski21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10364,
+          "Silva, Alberto",
+          "asilva19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10727,
+          "Sayed, Hunter",
+          "hsayed20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10615,
+          "Bauhaus, Nikolas",
+          "nbauhaus21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10600,
+          "Akhavein, Dara",
+          "dakhavein21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10022,
+          "Eernisse, Hiromasa",
+          "heernisse20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10682,
+          "Lawrence, Jackson",
+          "jlawrence21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10452,
+          "Thornley, Lara",
+          "lthornley20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10632,
+          "Dowd, Paul",
+          "pdowd21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10593,
+          "Walsh, Owen",
+          "owalsh20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10428,
+          "Caoili, Diego",
+          "dcaoili20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10666,
+          "John, Logan",
+          "ljohn21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10234,
+          "Coria-Nava, Salvador",
+          "scorianava19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10664,
+          "Jariwala, Anjali",
+          "ajariwala21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10749,
+          "Nagai, Miki",
+          "mnagai21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10728,
+          "Schiller, Sydney",
+          "sschiller21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10478,
+          "Francis, Eric",
+          "efrancis20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10033,
+          "Soy, Emelie",
+          "esoy20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10754,
+          "Tyryshkin, Emily",
+          "etyryshkin21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10656,
+          "Flock, Savannah",
+          "sflock21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10817,
+          "Wigenstam, Sophia",
+          "swigenstam22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10499,
+          "Queiroz, Daniel",
+          "dqueiroz20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10254,
+          "Galarza, Dallas",
+          "dgalarza18@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10740,
+          "Sturgeon, Levi",
+          "lsturgeon21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10670,
+          "Kaufusi, Virginia",
+          "vkaufusi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10017,
+          "Fagans, Connor",
+          "cfagans20@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 697698903,
+        "title": "3rd: Algebra 2B",
+        "index": 3
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10809,
+          "Volkov, Hailey",
+          "hvolkov22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10537,
+          "Julian, Tiffany (Tony)",
+          "tjulian19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10639,
+          "Ettrick, Joss",
+          "jettrick21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10668,
+          "Flemate, Zoe",
+          "zflemate21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10741,
+          "Suriben, Ellyanah",
+          "esuriben21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10391,
+          "Shaw, Kehl",
+          "kshaw19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10879,
+          "Flint, Lachlan",
+          "lflint22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10693,
+          "Luna, Okalani",
+          "oluna21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10038,
+          "Fagans, Annabelle",
+          "afagans21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10624,
+          "Cheung, Natalie",
+          "ncheung21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10838,
+          "Loeffler, Coleman",
+          "cloeffler22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10525,
+          "Torreano, Anthony",
+          "atorreano20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10259,
+          "Gutierrez, Felix",
+          "fgutierrez19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10581,
+          "Tapia, Mia",
+          "mtapia20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10027,
+          "McCulloch, Michael",
+          "mmcculloch21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10697,
+          "Mahan, Joelle",
+          "jmahan21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10476,
+          "Simpson, Oliver",
+          "osimpson20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10695,
+          "Mah, Samantha",
+          "smah21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10616,
+          "Campbell, Samantha",
+          "scampbell21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10834,
+          "Fong, Kyle",
+          "kfong22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10394,
+          "Baggott, Phoebe",
+          "pbaggott20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10300,
+          "Faalogoifo, Alexxus",
+          "afaalogoifo19@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10034,
+          "Hiebert, Andrew",
+          "ahiebert21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10766,
+          "Yee, Ryan",
+          "ryee21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10736,
+          "Simone, Catherine",
+          "csimone21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10703,
+          "Medlin, John",
+          "jmedlin21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10698,
+          "Managadze, Marita",
+          "mmanagadze21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10655,
+          "Martinez-Hall, Elena",
+          "emartinezhall21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10498,
+          "Gajiwala, Kris",
+          "kgajiwala20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10610,
+          "Bingham, Brianna",
+          "bbingham21@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1391627346,
+        "title": "4th: Algebra 2B",
+        "index": 4
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10690,
+          "Lin, Stacey",
+          "slin21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10606,
+          "Brewster, Katherine",
+          "kbrewster21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10828,
+          "Balkhi, Areeba",
+          "abalkhi22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10746,
+          "Tarkiainen, Yasmine",
+          "ytarkiainen21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10747,
+          "Tateishi, Issey",
+          "itateishi21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10702,
+          "McGugan, Patrick",
+          "pmcgugan21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10526,
+          "Levitt, Avia",
+          "alevitt20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10713,
+          "Nandani, Keya",
+          "knandani21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10797,
+          "Chandrasekaran, Thandapani",
+          "tchandrasekaran22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10459,
+          "Frank, Keito",
+          "kfrank20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10607,
+          "Brady, Drew",
+          "dbrady21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10922,
+          "Davis, Benjamin",
+          "bdavis21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10571,
+          "Hill, Kelley",
+          "khill20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10613,
+          "Benson, Geran",
+          "gbenson20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10598,
+          "Abouata, Sammy",
+          "sabouata21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10426,
+          "Watson, Luke",
+          "lwatson20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10021,
+          "Sales, Zackary",
+          "zsales21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10482,
+          "Lederman, Julia",
+          "jlederman20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10480,
+          "Carini, Carson",
+          "ccarini20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10627,
+          "Conley, Griffin",
+          "gconley21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10890,
+          "Singh, Kasvi",
+          "ksingh22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10641,
+          "Flores, Dahlia",
+          "dflores21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10688,
+          "Levy, Dahlia",
+          "dlevy21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10009,
+          "Chou, Jared",
+          "jchou21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10686,
+          "Lerohl, Matthew",
+          "mlerohl21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10623,
+          "Chen, Aidan",
+          "achen21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10031,
+          "Fields, Jack",
+          "jfields20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10447,
+          "Rosario, Kyleanne",
+          "krosario20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10505,
+          "Guardado, Anthony",
+          "aguardado20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10514,
+          "Blackmon, Russell",
+          "rblackmon20@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    },
+    {
+      "properties": {
+        "sheetId": 1961398105,
+        "title": "5th: Algebra 2B",
+        "index": 5
+      },
+      "values": [
+        [
+          "Student ID",
+          "Name",
+          "Email Address",
+          "Pace"
+        ],
+        [
+          10654,
+          "Ho, Ryan",
+          "rho21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10530,
+          "Boley, Matthew",
+          "mboley20@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10814,
+          "Liang, Ethan",
+          "eliang22@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10611,
+          "Bertocchini, Dominic",
+          "dbertocchini21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10609,
+          "Blecherman, Jonathan",
+          "jblecherman21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10605,
+          "Brown, Arielle",
+          "abrown21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10711,
+          "Morley, Zachary",
+          "zmorley21@dtechhs.org",
+          "On Pace (0)"
+        ],
+        [
+          10036,
+          "Forster, Alannah",
+          "aforster20@dtechhs.org",
+          "On Pace (0)"
+        ]
+      ]
+    }
+  ]
+}

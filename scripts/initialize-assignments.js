@@ -1,7 +1,7 @@
 const fs = Promise.promisifyAll(require('fs'))
 const {google} = require('googleapis')
 
-const folderId = '1hbMaDyIPb64H0bD5S8ZfPJvDuvh38H2q'
+const folderId = '1XUGsx0_fSbDcdDSZ1h8-GxYiQZrubxqm'
 
 module.exports = function initializeAssignments() {
   const emailAddresses = parseEmailAddresses()
