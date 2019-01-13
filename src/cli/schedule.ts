@@ -183,7 +183,7 @@ export = function run(options: {[k: string]: any} = {argv: process.argv.slice(2)
 
     out.writeln(`min: ${min} / ${total} = ${(min / total).toFixed(6)} -- 1`)
 
-    for (let i = 0; i < 10000 && min > target; ++i) {  // Sets # of times to run schedule alg (PARAMETER)
+    for (let i = 0; i < 5000 && min > target; ++i) {  // Sets # of times to run schedule alg (PARAMETER)
       scheduler.reset(registration, assignments)
       const alternateResult = scheduler.remix()
 
