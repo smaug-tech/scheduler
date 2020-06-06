@@ -177,13 +177,13 @@ export = function run(options: {[k: string]: any} = {argv: process.argv.slice(2)
     let result = scheduler.remix()
 
     const total = result.scheduled.length + result.unschedulable.length
-    const target = 30  // Number of students "ok" to be unscheduled (PARAMETER)
+    const target = 15  // Number of students "ok" to be unscheduled (PARAMETER)
 
     let min = result.unschedulable.length
 
     out.writeln(`min: ${min} / ${total} = ${(min / total).toFixed(6)} -- 1`)
 
-    for (let i = 0; i < 5000 && min > target; ++i) {  // Sets # of times to run schedule alg (PARAMETER)
+    for (let i = 0; i < 1000 && min > target; ++i) {  // Sets # of times to run schedule alg (PARAMETER)
       scheduler.reset(registration, assignments)
       const alternateResult = scheduler.remix()
 
@@ -206,7 +206,7 @@ export = function run(options: {[k: string]: any} = {argv: process.argv.slice(2)
 
   function writeMasterScheduleUpdates(result: any) {
     const schedule = result.scheduled.concat(result.unschedulable)
-    const spreadsheetId = '1DFdFUysFwqobP0Oia-zIlvg9txwLBwk241yLLXVbt7I'
+    const spreadsheetId = '1VJz0jMpszbdygqnLDM5EodquWNbZSn2sdbSHSqJeeBc'
 
     const scheduleByStudent = {} as any
     const studentsByEmailAddress = {} as any

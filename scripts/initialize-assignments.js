@@ -1,7 +1,7 @@
 const fs = Promise.promisifyAll(require('fs'))
 const {google} = require('googleapis')
 
-const folderId = '1XUGsx0_fSbDcdDSZ1h8-GxYiQZrubxqm'
+const folderId = '1llRZcs_TO1zUfet4uRQiYctyYtQvwPNQ'
 
 module.exports = function initializeAssignments() {
   const emailAddresses = parseEmailAddresses()
@@ -72,7 +72,7 @@ function updateSpreadsheetFile(auth, file) {
 
 function parseEmailAddresses() {
   const registration = require('../remote/registration.json')
-  const courses = registration.sheets.find((sheet) => sheet.properties.title === 'Mikol')
+  const courses = registration.sheets.find((sheet) => sheet.properties.title === 'USE ME - Teaching Assignments')
   const indexOfEmailAddress = courses.values[0].indexOf('Email Address')
   const indexOfExclude = courses.values[0].indexOf('Exclude')
   const seen = {}

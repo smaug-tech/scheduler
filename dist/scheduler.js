@@ -11,8 +11,8 @@ exports.bellNames = [
     '5th',
     '6th'
 ];
-const courseConstraintsSheetTitle = 'Mikol';
-const registrationSheetTitle = 'Responses for Edit';
+const courseConstraintsSheetTitle = 'USE ME - Teaching Assignments';
+const registrationSheetTitle = 'Working Student Course Load';
 const validStudentEmailAddress = /\d{2}@dtechhs\.org$/;
 const assignments = {};
 const studentsByEmailAddress = {};
@@ -27,13 +27,16 @@ function expectAssignments(spreadsheets) {
         }
         const subjects = teachersByEmailAddress[emailAddress].courses.map((x) => x.subject);
         const titles = spreadsheets[i].sheets.map((x) => x.properties.title);
-        const nj = subjects.length;
         console.log(titles);
+        const nj = subjects.length;
         let n = 0;
         for (let j = 0; j < nj; ++j) {
             const expectedTitle = `Subject: ${subjects[j]}`;
             if (titles.findIndex((title) => title === expectedTitle) > -1) {
                 ++n;
+            }
+            else {
+                console.log(expectedTitle);
             }
         }
         if (n !== nj) {
@@ -172,11 +175,11 @@ function parseStudents(registration) {
     const duplicatesByEmailAddress = {
         'nwilson20@dtechhs.org': true
     };
-    // FIXME:
-    const broken = [43];
+    // FIXME: this was avoiding row 43 in the registration spreadsheet for some reason
+    // const broken = [43]
     // Up to now it's just parsing and formatting the data
     registrationRows.forEach((row, index) => {
-        if (broken.indexOf(index + 2) === -1 && row && row.some((x) => !!x && `${x}`.trim())) {
+        if ( /*broken.indexOf(index + 2) === -1 && */row && row.some((x) => !!x && `${x}`.trim())) {
             const emailAddress = `${row[indexOfEmailAddress]}`.toLowerCase();
             if (!emailAddress) {
                 throw new Error(`Missing email address at registration row ${index + 2}`);
@@ -184,8 +187,7 @@ function parseStudents(registration) {
             if (!validStudentEmailAddress.test(emailAddress)) {
                 throw new Error(`Invalid email address at registration row ${index + 2}`);
             }
-            const prevGradeLevel = row[indexOfGradeLevel];
-            const gradeLevel = prevGradeLevel < 12 ? prevGradeLevel + 1 : prevGradeLevel;
+            const gradeLevel = row[indexOfGradeLevel];
             if (!gradeLevel) {
                 throw new Error(`Missing grade level at registration row ${index + 2}`);
             }
@@ -242,7 +244,7 @@ function parseAssignments(spreadsheets) {
                 if (!schedulable) {
                     throw new Error(`Invalid subject: ${subject}`);
                 }
-                console.log('Teacher: ' + teacher.emailAddress);
+                // console.log('Teacher: ' + teacher.emailAddress)
                 if (!assignments[teacher.emailAddress][subject]) {
                     assignments[teacher.emailAddress][subject] = [];
                 }
@@ -348,7 +350,6 @@ function divvy() {
             return accumulator;
         }, []);
         // B. Shuffle the list of students taking `subject`.
-        
         const students = random.shuffle(studentsBySubject[subject]);
         // C. Fill each section by assigning one student per section, starting over
         //    with the first section every n students (where n is the number of
@@ -386,7 +387,6 @@ function divvy() {
             }
         });
     });
-    // console.log(assignments);
     return assignments;
 }
 exports.divvy = divvy;
@@ -459,7 +459,7 @@ function addSection({ subject, teacher, student }) {
                 teacher.addStudent(student, subject, bell);
                 return true;
             }
-        }
+        }   
     }
     return false;
 }

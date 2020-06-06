@@ -20,7 +20,7 @@ student rosters will change_. If any student is in the [master schedule
 spreadsheet][master] but not in the [enrollment spreadsheet][enrollment], they
 will be dropped from all rosters.
 
-**Don't run this if you aready have the classes distributed. All this does is take all students taking a course and distribute them amongst the teachers who are teching that subject.**
+**Don't run this if you already have the classes distributed. All this does is take all students taking a course and distribute them amongst the teachers who are teaching that subject.**
 
 *Has been throwing an error. I've had to run this twice. After the second time it creates a "untitled.json" (or something similar) and I have to delete it or I get an error when running remix.*
 
@@ -61,7 +61,7 @@ Initialize
 - Folder in drive for rosters and Master Schedule
     - needs to be created beforehand
     - scripts/initialize-assignments.js
-    - const folderId = *insert id for folder here*
+      - const folderId = *insert id for folder here*
 - Master Spreadsheet
     - needs to be created beforehand
     - scripts/get-assignments.js   
@@ -70,8 +70,9 @@ Initialize
         - const spreadsheetID = *insert id for spreadsheet here*
 - Registration Assignments
     - Needs to be created beforehand
-        - Responses for edit --> where you find the student enrollments
-        - Mikol --> Constraints
+        - Responses for edit (updated to: Working Student Course Load) --> where you find the student enrollments
+            - Grade level should be for the year you are scheduling for (e.g. a rising senior should be grade 12)
+        - Mikol --> Constraints (updated to USE ME - Teaching Assignments)
         - Keep the headers the sameish
     - scripts/get-registration.js
         const spreadsheetId = *insert id for spreadsheet here*

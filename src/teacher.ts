@@ -2,7 +2,7 @@ import random = require('./lib/random')
 import * as scheduler from './scheduler'
 import Student = require('./student')
 
-const maxSectionsPerTeacher = 5
+const maxSectionsPerTeacher = 6
 
 declare namespace Teacher {
   export interface Section {

@@ -68,8 +68,6 @@ module.exports = function run(options = { argv: process.argv.slice(2) }) {
         emailAddresses.forEach((emailAddress) => {
             const teacher = result[emailAddress];
             const subjects = Object.keys(teacher);
-            // console.log(teacher)
-            // console.log(subjects)
             const key = computeKeyFromEmailAddress(emailAddress);
             const input = assignments.find((x) => x.properties.title === key);
             const queue = new SpreadsheetRevisionQueue(input);
@@ -141,10 +139,10 @@ module.exports = function run(options = { argv: process.argv.slice(2) }) {
         scheduler.parseAssignments(assignments);
         let result = scheduler.remix();
         const total = result.scheduled.length + result.unschedulable.length;
-        const target = 30; // Number of students "ok" to be unscheduled (PARAMETER)
+        const target = 15; // Number of students "ok" to be unscheduled (PARAMETER)
         let min = result.unschedulable.length;
         out.writeln(`min: ${min} / ${total} = ${(min / total).toFixed(6)} -- 1`);
-        for (let i = 0; i < 10000 && min > target; ++i) { // Sets # of times to run schedule alg (PARAMETER)
+        for (let i = 0; i < 1000 && min > target; ++i) { // Sets # of times to run schedule alg (PARAMETER)
             scheduler.reset(registration, assignments);
             const alternateResult = scheduler.remix();
             if (alternateResult.unschedulable.length < min) {
@@ -162,7 +160,7 @@ module.exports = function run(options = { argv: process.argv.slice(2) }) {
     }
     function writeMasterScheduleUpdates(result) {
         const schedule = result.scheduled.concat(result.unschedulable);
-        const spreadsheetId = '1DFdFUysFwqobP0Oia-zIlvg9txwLBwk241yLLXVbt7I';
+        const spreadsheetId = '1VJz0jMpszbdygqnLDM5EodquWNbZSn2sdbSHSqJeeBc';
         const scheduleByStudent = {};
         const studentsByEmailAddress = {};
         schedule.forEach(({ student, subject, teacher }) => {

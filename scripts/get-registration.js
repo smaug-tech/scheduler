@@ -1,7 +1,7 @@
 const getSheets = require('./get-sheets')
 
-const spreadsheetId = '15rMCbh2BA0CJ0jSCYQI-j3v3YCFF9h8EUe9SOYfvwGw'
-const ranges = ['Responses for Edit', 'Mikol'] // Sheet title
+const spreadsheetId = '15ShmuUohScX-qNdW9x61Klo8KgTOS1sfK_3Hgrqab8k'
+const ranges = ['Working Student Course Load', 'USE ME - Teaching Assignments'] // Sheet title
 const filename = 'remote/registration.json'
 
 module.exports = function getEnrollment() {

@@ -27,8 +27,8 @@ export const bellNames: Bell[] = [
   '6th'
 ]
 
-const courseConstraintsSheetTitle = 'Mikol'
-const registrationSheetTitle = 'Responses for Edit'
+const courseConstraintsSheetTitle = 'USE ME - Teaching Assignments'
+const registrationSheetTitle = 'Working Student Course Load'
 const validStudentEmailAddress = /\d{2}@dtechhs\.org$/
 
 const assignments: Assignments = {}
@@ -47,6 +47,7 @@ export function expectAssignments(spreadsheets: any) {
 
     const subjects = teachersByEmailAddress[emailAddress].courses.map((x: any) => x.subject)
     const titles = spreadsheets[i].sheets.map((x: any) => x.properties.title as string)
+    console.log(titles)
 
     const nj = subjects.length
     let n = 0
@@ -55,6 +56,8 @@ export function expectAssignments(spreadsheets: any) {
       const expectedTitle = `Subject: ${subjects[j]}`
       if (titles.findIndex((title: string) => title === expectedTitle) > -1) {
         ++n
+      } else {
+        console.log(expectedTitle)
       }
     }
 
@@ -229,13 +232,12 @@ export function parseStudents(registration: any) {
     'nwilson20@dtechhs.org': true
   }
 
-  // FIXME:
-  const broken = [43]
+  // FIXME: this was avoiding row 43 in the registration spreadsheet for some reason
+  // const broken = [43]
 
   // Up to now it's just parsing and formatting the data
-
   registrationRows.forEach((row: any, index: number) => {
-    if (broken.indexOf(index + 2) === -1 && row && row.some((x: any) => !!x && `${x}`.trim())) {
+    if (/*broken.indexOf(index + 2) === -1 && */row && row.some((x: any) => !!x && `${x}`.trim())) {
       const emailAddress: string = `${row[indexOfEmailAddress]}`.toLowerCase()
       if (!emailAddress) {
         throw new Error(`Missing email address at registration row ${index + 2}`)
@@ -244,9 +246,7 @@ export function parseStudents(registration: any) {
       if (!validStudentEmailAddress.test(emailAddress)) {
         throw new Error(`Invalid email address at registration row ${index + 2}`)
       }
-
-      const prevGradeLevel: number = row[indexOfGradeLevel]
-      const gradeLevel: number = prevGradeLevel < 12 ? prevGradeLevel + 1 : prevGradeLevel
+      const gradeLevel: number = row[indexOfGradeLevel]
       if (!gradeLevel) {
         throw new Error(`Missing grade level at registration row ${index + 2}`)
       }
@@ -315,7 +315,7 @@ export function parseAssignments(spreadsheets: any) {
         if (!schedulable) {
           throw new Error(`Invalid subject: ${subject}`)
         }
-        console.log('Teacher: ' + teacher.emailAddress)
+        // console.log('Teacher: ' + teacher.emailAddress)
         if (!assignments[teacher.emailAddress][subject]) {
           assignments[teacher.emailAddress][subject] = []
         }

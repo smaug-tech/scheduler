@@ -1,7 +1,7 @@
 "use strict";
 const random = require("./lib/random");
 const scheduler = require("./scheduler");
-const maxSectionsPerTeacher = 5;
+const maxSectionsPerTeacher = 6;
 function calculateMaxStudents(course) {
     return Math.max(Math.floor(course.demand / course.maxSections) + 1, course.maxStudents);
 }
